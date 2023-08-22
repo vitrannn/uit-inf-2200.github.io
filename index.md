@@ -8,7 +8,7 @@ Administrative course information is available [here](https://uit.no/utdanning/e
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
 
-The github organization for this course is: [github.com/uit-inf-2200-f23/](https://github.com/uit-inf-2200-f23/)
+The github organization for this course is: [github.com/uit-inf-2200/](https://github.com/uit-inf-2200)
 
 The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module=INF-2200-1#week=33-52)
 
