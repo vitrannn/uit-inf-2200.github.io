@@ -44,8 +44,8 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L6   | 18.09.23 | Processor 1  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
 | L7   | 22.09.23 | Processor 2  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
 | P3   | 13.10.23 | Precepts 3   | Lars Ailo | -          |
-| L8   | 16.10.23 | Memory Hierarchy 1       | Vi         | Chapter 5 |
-| L9   | 20.10.23 | Memory Hierarchy 2       | Vi         | Chapter 5 |
+| L8   | 20.10.23 | Memory Hierarchy 1       | Vi         | Chapter 5 |
+| L9   | 23.10.23 | Memory Hierarchy 2       | Vi         | Chapter 5 |
 | L10  | 27.10.23 | Parallel Processors        | Vi         | Chapter 6 |
 | L11  | 03.11.23 | GPUs                       | Vi        | Appendix C |
 | Exam | 27.11.23 | School exam  | -         | Everything |            
